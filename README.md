@@ -1,6 +1,6 @@
 # ReValuate ♻️👕
 
-**ReValuate** is a smart digital thrift store application designed to automate the sorting and pricing of second-hand clothing. By allowing sellers to input details about their used garments before submitting them, the platform eliminates slow manual inspections, reduces subjective pricing errors, and sets clear financial expectations upfront. Built to combat textile waste, ReValuete aims to achieve sustainable garment sorting and transparent online reselling.
+**ReValuate** is a smart digital thrift store application designed to automate the sorting and pricing of second-hand clothing. By allowing sellers to input details about their used garments before submitting them, the platform eliminates slow manual inspections, reduces subjective pricing errors, and sets clear financial expectations upfront. Built to combat textile waste, ReValuate aims to achieve sustainable garment sorting and transparent online reselling.
 
 ---
 
@@ -10,7 +10,7 @@ The core engine of ReValuete relies on a dual-prediction machine learning pipeli
 
 ### 1. Circular Economy Pathway Classifier
 * **What it does:** Evaluates the physical condition and wear-and-tear of the submitted clothing item to automate textile sorting.
-* **What it predicts:** Routes the garment into its optimal circular economy pathway—such as **Reuse**, **Repair**, **Export**, or **Recycle**—ensuring heavily degraded items are filtered into recycling loops rather than rejected unexpectedly at the storefront.
+* **What it predicts:** Routes the garment into its optimal circular economy pathway such as **Reuse**, **Repair**, **Export**, or **Recycle**—ensuring heavily degraded items are filtered into recycling loops rather than rejected unexpectedly at the storefront.
 
 ### 2.Resale Price Estimator
 * **What it does:** Appraises viable garments based on their predicted pathway, brand value, fabric quality, and overall condition.
