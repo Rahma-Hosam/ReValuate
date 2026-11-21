@@ -10,7 +10,7 @@ The core engine of ReValuete relies on a dual-prediction machine learning pipeli
 
 ### 1. Circular Economy Pathway Classifier
 * **What it does:** Evaluates the physical condition and wear-and-tear of the submitted clothing item to automate textile sorting.
-* **What it predicts:** Routes the garment into its optimal circular economy pathway such as **Reuse**, **Repair**, **Export**, or **Recycle**—ensuring heavily degraded items are filtered into recycling loops rather than rejected unexpectedly at the storefront.
+* **What it predicts:** Routes the garment into its optimal circular economy pathway such as **Reuse**, **Export**, or **Recycle** ensuring heavily degraded items are filtered into recycling loops rather than rejected unexpectedly at the storefront.
 
 ### 2.Resale Price Estimator
 * **What it does:** Appraises viable garments based on their predicted pathway, brand value, fabric quality, and overall condition.
